@@ -83,7 +83,7 @@ if(isset($_POST['submit'])){
         <input type="submit" value="register" class="form-btn-daftar" name="submit" style="color: black;">
 <br>
 <br>
-<p style="font-family:Georgia, 'Times New Roman', Times, serif;">Punya akun? <a href="login.php" style="text-decoration: underline;">login</a></p> 
+<p style="font-family:Georgia, 'Times New Roman', Times, serif;">Punya akun? <a href="index.php" style="text-decoration: underline;">login</a></p> 
 </div>
         <td></td>
     </form>
